@@ -10,3 +10,4 @@ gt-> BIPED dataset train + BRIND dataset 정답값
 gts-> BIPED dataset test 정답값
 img->BIPED dataset train + BRIND dataset 이미지
 imgs-> BIPED dataset test 이미지
+---
