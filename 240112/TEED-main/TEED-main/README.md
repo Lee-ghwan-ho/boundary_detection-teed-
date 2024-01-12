@@ -12,4 +12,4 @@
  - imgs-> BIPED dataset test 이미지
 ---
 
-<img src="240112/TEED-main/TEED-main/checkpoints/스크린샷 2024-01-12 184036.png">
+<img src="240112/TEED-main/TEED-main/checkpoints/스크린샷 2024-01-12 184036.png" alt="결과">
