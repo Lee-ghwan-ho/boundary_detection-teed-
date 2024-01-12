@@ -11,4 +11,5 @@
 - 3~~BIPED DATA 증강~~
 - 4~~gray scale data or biomedical image 실험해서 성능 평가~~
 - 5~~추가적인 data로 학습~~
+- <img src="240112/TEED-main/TEED-main/checkpoints/스크린샷 2024-01-12 184036.png" alt="설명">
 ---
