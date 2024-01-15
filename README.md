@@ -13,3 +13,7 @@
 - 5~~추가적인 data로 학습~~
 - <img src="240112/TEED-main/TEED-main/checkpoints/스크린샷 2024-01-12 184036.png" alt="설명">
 ---
+## 24.01.15
+- 1.BIPED dataset 데이터 증강 
+- 2
+---
