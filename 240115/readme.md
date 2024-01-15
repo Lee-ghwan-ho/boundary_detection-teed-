@@ -4,7 +4,7 @@
 ---
 
 
-- 1. cv_imshow: 이미지를 화면에 표시합니다.
+  1. cv_imshow: 이미지를 화면에 표시합니다.
   2. make_dirs: 주어진 경로에 디렉토리를 만듭니다.
   3. image_normalization: 이미지를 정규화합니다.
   4. gamma_correction: 감마 보정을 적용합니다.
