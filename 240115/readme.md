@@ -1,4 +1,4 @@
-![image](https://github.com/Lee-ghwan-ho/boundary_detection-teed-/assets/114568122/5ef41a5e-211a-49a8-b1e5-9d4ac37c6f22)---
+---
 ## 24.01.15
 - 1.BIPED dataset 데이터 증강
 - 2.gray scale로 증강하면 gray scale에서 더 잘 나올까 생각 -> 코드 수정중 
