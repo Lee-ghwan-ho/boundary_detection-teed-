@@ -29,7 +29,8 @@
 ## 24.01.18
 - 1. 481x321(Brind dataset크기)로 수정해서 돌리면 돌아가므로, 증강한 데이터셋을 481x321로 전체 수정해주는 코드 작성
 - 2. png,jpg 둘다 만든 데이터셋으로 학습 예정
-- 3. 학습결과 
+- 3. 학습결과
 ![image](https://github.com/Lee-ghwan-ho/boundary_detection-teed-/assets/114568122/11d7d3c4-d03e-4e1a-8af5-fb7eec27f3bb)
+- 4. 우리 데이터셋에서도 좋은 성능 보여줌 but 노이즈많은 데이터셋에서는 성능이 좋지않았음 
 
 ---
